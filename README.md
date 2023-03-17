@@ -4,7 +4,7 @@ A simple course scheduling application that allows users to add course offerings
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/course-scheduling.git`
+1. Clone the repository: `git clone https://github.com/vrund297/course-scheduling.git`
 2. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
