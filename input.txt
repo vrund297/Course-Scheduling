@@ -1,0 +1,7 @@
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20
+REGISTER mike@example.com Data-Structures-John-28032023
+REGISTER paul@example.com Data-Structures-John-28032023
+REGISTER vrund@example.com Data-Structures-John-28032023
+REGISTER aesha@example.com Data-Structures-John-28032023
+ALLOT-COURSE Data-Structures-John-28032023
+CANCEL REG-COURSE-paul-Data-Structures

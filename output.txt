@@ -1,0 +1,509 @@
+REGISTER john@example.com 1 : None
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+REGISTER john@example.com 1 : None
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+REGISTER john@example.com 1 : None
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+REGISTER john@example.com 1 : None
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 10 20 : Data-Structures-John-28032023
+REGISTER john@example.com 1 : None
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 10 20 : Data-Structures-John-28032023
+REGISTER john@example.com 1 : None
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 10 20 : Data-Structures-John-28032023
+REGISTER john@example.com Data-Structures-John-28032023 : None
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 10 20 : Data-Structures-John-28032023
+ADD-COURSE-OFFERING Data-Structures John 28032023 10 20 : Data-Structures-John-28032023
+ADD-COURSE-OFFERING Data-Structures John 28032023 10 20 : Data-Structures-John-28032023
+ADD-COURSE-OFFERING Data-Structures John 28032023 10 20 : Data-Structures-John-28032023
+REGISTER john@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 10 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+ALLOT-COURSE 1 : None
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'status': 'COURSE_CANCELED'}
+ALLOT-COURSE Data-Structures-John-28032023 : []
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : []
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : []
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : []
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL 1 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-mike-Data-Structures : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL Data-Structures-John-28032023 : {'course_registration_id': 'Data-Structures-John-28032023', 'status': 'CANCEL_REJECTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL Data-Structures-John-28032023 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL Data-Structures-John-28032023 : None
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_REJECTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_REJECTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_REJECTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ : INVALID_COMMAND
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ : INVALID_COMMAND
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
+ADD-COURSE-OFFERING Data-Structures John 28032023 3 20 : Data-Structures-John-28032023
+REGISTER mike@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-mike-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER paul@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER vrund@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-vrund-Data-Structures', 'status': 'ACCEPTED'}
+REGISTER aesha@example.com Data-Structures-John-28032023 : {'course_registration_id': 'REG-COURSE-aesha-Data-Structures', 'status': 'ACCEPTED'}
+ALLOT-COURSE Data-Structures-John-28032023 : [('Data-Structures-John-28032023', 'REG-COURSE-mike-Data-Structures', 'mike@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-paul-Data-Structures', 'paul@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-vrund-Data-Structures', 'vrund@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED'), ('Data-Structures-John-28032023', 'REG-COURSE-aesha-Data-Structures', 'aesha@example.com', 'Data-Structures', 'John', '28-Mar-2023', '17032023', 'ALLOTTED')]
+CANCEL REG-COURSE-paul-Data-Structures : {'course_registration_id': 'REG-COURSE-paul-Data-Structures', 'status': 'CANCEL_ACCEPTED'}
